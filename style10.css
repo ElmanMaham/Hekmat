@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
+input {width: 100px}
+#submit :hover{background-color: blue;}
+tr :hover{background-color: deeppink}
